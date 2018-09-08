@@ -1,0 +1,6 @@
+Authors:
+Pratik Kotwal, kotwa007@umn.edu
+Yuchuan Huang, huan1531@umn.edu
+
+Acknowledgements:
+We would like to thank our Professor Shashi Shekhar, and TAs Yiqun Xie and Xun Tang for their support and guidance on working on this problem
