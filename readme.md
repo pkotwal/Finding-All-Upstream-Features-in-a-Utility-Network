@@ -2,6 +2,9 @@
 
 This project was for the GISCUP2018 for the ACM SigSpatial Conference http://sigspatial2018.sigspatial.org/giscup2018/
 
+A presentation explaining the proposed solution can be found here: https://docs.google.com/presentation/d/1a15c5V--R_PvbYulSrYkpDOBfgcFpvefXwDs_qbOR-Y/edit?usp=sharing
+
+A technical paper for the same can be found here: https://drive.google.com/file/d/1GiPLSKhkb1kvXEAMDD_D8uURLAK0xGrR/view?usp=sharing
 
 The main source files are persent in the folder src.
 The SampleDataset1 folder is added to provide an example as how to run the files.
